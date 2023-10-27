@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:layout_weight="6"
+
+    tools:context="com.example.har.finalproject.MainActivity">
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    tools:ignore="Orientation"
+        >
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            >
+
+        <ImageView
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:src="@drawable/disease"
+            />
+
+            <TextView
+
+                android:id="@+id/disease"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:gravity="center"
+                android:singleLine="false"
+
+                android:text="Acute Stress Disorder"
+                android:textColor="#000"
+                android:textSize="22dp"
+
+                />
+
+        </FrameLayout>
+
+</LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        >
+    <ImageView
+        android:id="@+id/intro"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/disease"
+
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+
+        android:src="@drawable/introduction"
+
+        />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="999"
+        android:orientation="horizontal"
+
+        android:weightSum="6"
+        >
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            >
+
+        <ImageView
+
+
+            android:layout_gravity="center"
+
+            android:id="@+id/left"
+
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:src="@drawable/lessthen"
+            />
+
+        </LinearLayout>
+
+
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="match_parent"
+           android:layout_gravity="center"
+           android:layout_weight="5"
+           >
+
+         <ScrollView
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+        <TextView
+
+        android:id="@+id/detail"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:gravity="left"
+
+        android:text="Introduction detail"
+        android:textSize="25dp"
+        />
+         </ScrollView>
+
+       </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+    <ImageView
+
+
+        android:layout_gravity="center"
+
+        android:id="@+id/right"
+
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+
+        android:src="@drawable/greaterthan"
+        />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/chat_btn"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+
+        android:background="@drawable/chat"
+
+        android:padding="3dp" />
+</LinearLayout>

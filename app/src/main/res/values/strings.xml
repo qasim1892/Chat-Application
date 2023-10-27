@@ -1,0 +1,317 @@
+<resources>
+    <string name="app_name">Keh Do</string>
+
+    <string-array name="Details" formatted="false">%a + %a == 2%a>
+        <item>By definition, acute stress disorder is a result of a traumatic event in which the person experienced
+            or witnessed an event that involved threatened or actual serious injury or death and responded with
+            intense fear and helplessness.
+
+            Symptoms include dissociative symptoms such as numbing, detachment, a reduction in
+            awareness of the surroundings, derealization, or depersonalization; re-experiencing of the trauma,
+            avoidance of associated stimuli, and significant anxiety, including irritability, poor concentration,
+            difficulty sleeping, and restlessness. The symptoms must be present for a minimum of two days and a
+            maximum of four weeks and must occur within four weeks of the traumatic event for a diagnosis to be
+            made. See also Post-traumatic Stress Disorder.
+
+            The disorder may resolve itself with time or may develop into a more severe disorder such as PTSD.
+            Medication can be used for a very short duration (up to four weeks) or psychotherapy can be utilized
+            to assist the victim in dealing with the fear and sense of helplessness.
+
+            Prognosis for this disorder is very good. If it should progress into another disorder, success rates
+            can vary according to the specific of that disorder.
+        </item>
+
+        <item>Agoraphobia can develop out of simple phobias or it can be a result of extreme trauma, although
+            it is often a result of numerous panic attacks such as those found in panic disorder.
+
+            Agoraphobia, like other phobias, is made up of extreme anxiety and fear. Different from other phobias,
+            however, is the generalization which occurs. Agoraphobia is the anxiety about being in places where
+            escape might be difficult or embarrassing or in which help may not be available should a panic attack
+            develop. It can be sub diagnosed as either ‘with’ or ‘without’ panic disorder (see above). Typically
+            situations that invoke anxiety are avoided and in extreme cases, the person may never or rarely leave
+            their home.
+
+            Treatment may involve anxiety reduction techniques aimed at increasing the control a person feels over
+            his or her anxiety and fears. Other approaches require the individual to work through their anxiety in
+            relation to interpersonal or childhood issues.
+
+            Prognosis is good, especially if the individual has some insight into the development of the disorder
+            and if their fears are irrational and there is insight into this.
+        </item>
+
+        <item>This disorder is typically brought on by a traumatic event.
+
+            The primary symptoms are memory gaps related to traumatic or stressful events which are too
+            extreme to be accounted for by normal forgetting.
+
+            Memory typically returns (and therefore the disorder dissipates) with time. Therapy can be
+            useful to help with coping skills, but is not always needed unless the individual develops
+            excessive fears or worries, or the memory loss has a drastic effect on their everyday functioning.
+
+            Prognosis is extremely good.
+
+        </item>
+
+        <item>
+            Much research has been completed on this disorder, and results indicate a strong familial undercurrent.
+            Many individuals with Anorexia come from over controlling families where nurturance is lacking. Studies
+            suggest that sexual abuse survivors are more prone to the disorder, as are fraternal twins and first degree
+            relatives of those who have anorexia, the latter suggesting a biological component as well.
+
+            Most often diagnosed in females, Anorexia is characterized by failure to maintain body weight
+            of at least 85% of what is expected, fear of losing control over your weight or of becoming ‘fat’. There is
+            typically a distorted body image, where the individual sees themselves as overweight despite overwhelming
+            evidence to the contrary.
+
+            Treatment involves, initially, focusing on improving the individual’s health. Once this is obtained, therapy
+            can be useful in helping the individual maintain normal eating habits and explore faulty thinking which resulted
+            in the distorted body image and excessive needs for control.
+
+            If caught in time, Anorexia is very treatable, but can easily lead to severe physical problems and death if it
+            is allowed to continue. In many cases, an individual with anorexia is very reluctant to get treatment as this
+            would mean giving up control. Inpatient or other hospitalization is often needed when health is at risk.
+        </item>
+
+        <item>
+            The primary characteristic of attention deficit hyperactivity disorder (ADHD) is a pattern of inattention
+            and/or hyperactivity-impulsivity. This pattern of behavior interferes with functioning or development
+            that is, deficits in performance at school, home, and in social relationships. ADHD without the hyperactivity
+            component is often referred to as just plain attention deficit disorder (ADD).
+            ADHD begins in childhood. The symptoms of inattention or hyperactivity need to manifest themselves in a manner
+            that is inconsistent with the child’s current developmental level. That is, the child’s behavior is significantly
+            more inattentive or hyperactive than that of his or her peers of a similar age.
+            Several symptoms must be present before age 12. This age requirement supports ADHD/ADD as a neurodevelopmental disorder.
+            In the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV), symptoms were required before age 7.
+            Now the age of 12 is seen as an acceptable criterion because it is often difficult for adults (e.g., parents) to look retrospectively
+            and establish a precise age of onset for a child. Indeed, adult recall of childhood symptoms tends to be unreliable. Thus, the DSM-5 has
+            added some leeway to the age cut-off.
+            A person can present with predominantly inattention, predominantly hyperactivity-impulsivity, or a combination of the two.
+            To meet for each of these ADHD specifiers, a person must exhibit at least 6 symptoms from the appropriate categories below.
+            Symptoms of Inattention:
+            Often fails to give close attention to details or makes careless mistakes in schoolwork, work, or other activities
+            Often has difficulty sustaining attention in tasks or play activities
+            Often does not seem to listen when spoken to directly
+            Often does not follow through on instructions and fails to finish schoolwork, chores, or duties in the workplace (not due to oppositional behavior or failure to understand instructions)
+            Often has difficulty organizing tasks and activities
+            Often avoids, dislikes, or is reluctant to engage in tasks that require sustained mental effort (such as schoolwork or homework)
+            Often loses things necessary for tasks or activities (e.g., toys, school assignments, pencils, books, or tools)
+            Is often easily distracted by extraneous stimuli
+            Is often forgetful in daily activities–even those the person performs regularly (e.g., a routine appointment)
+            Symptoms of Hyperactivity/Impulsivity:
+            Hyperactivity
+            Often fidgets with hands or feet or squirms in seat
+            Often leaves seat in classroom or in other situations in which remaining seated is expected
+            Often runs about or climbs excessively in situations in which it is inappropriate (in adolescents or adults, may be limited to subjective feelings of restlessness)
+            Often has difficulty playing or engaging in leisure activities quietly
+            Is often “on the go” or often acts as if “driven by a motor”
+            Often talks excessively
+            Impulsivity
+            Often blurts out answers before questions have been completed
+            Often has difficulty awaiting turn
+            Often interrupts or intrudes on others (e.g., butts into conversations or games)
+            Symptoms must have persisted for at least 6 months.
+            Some of these symptoms need to have been present as a child, at 12 years old or younger.
+            The symptoms also must exist in at least two separate settings (for example, at school and at home).
+            The symptoms should be creating significant impairment in social, academic or occupational functioning or relationships.
+
+        </item>
+
+        <item>
+            Research has shown a strong biological component for this disorder, with environmental
+            factors playing a role in the exacerbation of symptoms.
+            Bipolar Disorder has been broken down into two types:
+            Bipolar I: For a diagnosis of Bipolar I disorder, a person must have at least one manic episode.
+            Mania is sometimes referred to as the other extreme to depression. Mania is an intense high where
+            the person feels euphoric, almost indestructible in areas such as personal finances, business dealings,
+            or relationships. They may have an elevated self-esteem, be more talkative than usual, have flight of ideas,
+            a reduced need for sleep, and be easily distracted. The high, although it may sound appealing, will often lead
+            to severe difficulties in these areas, such as spending much more money than intended, making extremely rash
+            business and personal decisions, involvement in dangerous sexual behavior, and/or the use of drugs or alcohol.
+            Depression is often experienced as the high quickly fades and as the consequences of their activities becomes
+            apparent, the depressive episode can be exacerbated.
+            Bipolar II: Similar to Bipolar I Disorder, there are periods of highs as described above and often followed
+            by periods of depression. Bipolar II Disorder, however is different in that the highs are hypo manic, rather
+            than manic. In other words, they have similar symptoms but they are not severe enough to cause marked impairment
+            in social or occupational functioning and typically do not require hospitalization in order to assure the safety
+            of the person.
+            Medication, such as Lithium, is typically prescribed for this disorder and is the corner stone of treatment.
+            Therapy can be useful in helping the client understand the illness and it’s consequences and be better able
+            to know when a manic or depressive episode is imminent and to prepare for this. As with all disorders, poor
+            coping skills and lack of support will make the illness more pronounced, and this is often a focus of therapeutic
+            treatment.
+            For more severe cases, prognosis is poor in terms of ’curing’ the illness, as most people need to remain on medication
+            for their entire lives. The manic episodes may slow down as a result of the natural aging process. With medication, the
+            illness can be kept at a minimum level, with some people not experiencing any overt symptoms for months and even years.
+            However, there are definitely varying degrees of this illness and it is not difficult to misdiagnose due to it’s similarity to other
+            mood disorders. If the illness is not severe, often times medication and therapy can do very well in terms of treatment. And,
+            life experience, strong support, and an openness to improve can be enough sometimes to make a difference in outcome.
+        </item>
+
+
+        <item>
+            The specific cause of this disorder is not known. Some argue that it is itself a symptom of another psychiatric
+            disorder such as those involving psychosis or delusional beliefs.
+            Preoccupation with a specific body part and the belief that this body part is deformed or defective.
+            The preoccupation is significantly excessive and causes distress or significant impairment in functioning.
+            It is not better explained by another disorder such as dissatisfaction with body shape in anorexia or delusions
+            associated with a psychotic disorder.
+            Because the disorder is most often gradual, taking several months or years to develop, intervention
+            is difficult. Therapy is typically refused by individuals with this disorder as well as any suggestions for medication.
+            Mixed. Some recent studies suggest good results with medications such as antidepressants.
+        </item>
+
+
+        <item>
+            The cause of this disorder is typically an extremely stressful event or trauma.
+            Presence of psychotic symptoms (delusions, hallucinations, disorganized speech,
+            and/or disorganized behavior)which lasts at least one day but no more than one month.
+            Supportive therapy or interpersonal relationships and at times medication.
+            Very good. By definition, the disorder will resolve itself within one month.
+            If the symptoms last more than one month, the diagnosis needs to be reconsidered
+            as does prognosis.
+        </item>
+
+        <item>
+            Many individuals with Bulimia come from over controlling families where nurturance
+            is lacking. Studies suggest that sexual abuse survivors are more prone to the disorder,
+            as are fraternal twins and first degree relatives of those who have anorexia, the latter
+            suggesting a biological component as well.
+            The key characteristics of this disorder include bingeing (the intake of large quantities of food)
+            and purging (elimination of the food through artificial means such as forced vomiting, excessive
+            use of laxatives, periods of fasting, or excessive exercise).
+            Treatment is similar to Anorexia in that the primary focus is on restoring health and then focusing
+            on normal eating patterns and exploring underlying issues.
+            Individuals with bulimia are less reluctant to get treatment due to the more obvious symptoms and self
+            recognition of such. Prognosis is therefore improved.
+        </item>
+
+        <item>Two schools of thought prevail in the etiology of this disorder. One is the psychoanalytic
+            theory which posits that unconscious conflicts cause the ‘conversion’ of this conflict into physical
+            symptoms. The other suggests that a disturbance in the central nervous system results in this disorder,
+            but neither theory has shown strong statistical evidence.Symptoms such as deficits in voluntary motor
+            or sensory functions which are not intentionally produced but which cannot be fully explained by a
+            physician. There must be a significant impairment in functioning or a history of resulting medical
+            treatment and not better explained by another disorder.Therapy focusing on increasing coping skills
+            and improving interpersonal and social functioning.</item>
+        <item>Research on this disorder is not nearly as well documented as its counterparts.
+            It is assumed that both biological and environmental factors play a role.Like Bipolar II
+            Disorder, symptoms of cyclothymia include periods of hypomania (see above). Depressive symptoms
+            are also present as the hypomania fades. These symptoms. However, are not meet the criteria
+            for a major depressive episode, in other words, are not as severe as those found in Bipolar Disorder.
+            Treatment can include both medication to help stabilize mood and therapy to increase coping skills,
+            build a solid support system, and deal with stressors which are either caused by or exacerbate the
+            illness.Prognosis is good when the proper combination of medication and therapy are received. Like other
+            disorders in this category (except perhaps Major Depression), this can be a life-long disorder,
+            with hypomanic episodes slowing down with the natural aging process.</item>
+
+        <item>The cause of delusional disorder is not known. Some studies suggest a biological component due
+            to increased prevalence in first degree relatives of individuals with the disorder.Non-bizarre delusions
+            including feelings of being followed, poisoned, infected, deceived or conspired against, or loved at a
+            distance. Non-bizarre referred to real life situations which could be true, but are not or are greatly
+            exaggerated. Bizarre delusions, which would rule out this disorder, are those such as believing that your
+            stomach is missing or that aliens are seeking you out to be their leader. Delusional disorder can be
+            subtyped into the following categories: erotomanic, grandiose, jealous, persecutory (most common), somatic,
+            and mixed.Medications can be helpful but are often refused due to the nature of the disorder. Some individuals
+            function quite normally, while others may react to their delusion in ways that can greatly disrupt their life.
+            Ranges from good to very poor depending on the individual, subtype, and life circumstances.</item>
+
+        <item>As with other disorders in this category, an acute stressor is often the precursor to onset.
+            This disorder is characterized by feelings of unreality, that your body does not belong to you, or that you are constantly in a dreamlike state.
+            The disorder will typically dissipate on its own after a period of time. Therapy can be helpful to strengthen coping skills.
+            Prognosis is very good.</item>
+        <item>
+            Dissociation
+is the state in which a person becomes separated from reality.Dissociative Identity Disorder (DID), sometimes referred to as Multiple Personality Disorder (MPD), is a disorder involving a disturbance of identity in which two or more separate and distinct personality states (or identities) control the individual’s behavior at different times. When under the control of one identity, the person is usually unable to remember some of the events that occurred while other personality was in control. The different identities are referred to as “alters”. (www.nami.com)
+Alters may have experienced a distinct personal history, self image and identity, including a separate name, as well as age. At least two of these personalities recurrently take control of the person’s behavior.
+Multiplicity simply put by the majority of multiples is about hiding, pain and survival no more no less. It is a desperate completely creative and wonderful survival mechanism for the child who endures repeated abuse mentally, emotionally and physically it may be their only escape.Dissociation is a common defense mechanism against childhood abuse, there is no adult onset of multiple personality. Only children have the flexibility to fracture off from the “core” personality and escape the traumatic and painful memory. The common belief among most professionals is the personality splintered or fractured before the age of five.
+Those with MPD have a dominant personality that determines the individual’s behavior. Each personality has a separate and consistent pattern of perceiving their environment, themselves and others. Each multiple has a specific way they see the inside of their mind, where the alters live when they are not in control of the body. Examples include stages, tunnels, houses and levels. These are their internal houses where they go when they are not out or when they are hiding. The mind of a multiple personality is like a roaming house in which two or more individuals co-exist. When one personality is in charge, the others remain hidden in the inner recesses of the brain. Each acts independently of the others and is totally different from them. (www.google.com/multiplepersonalities)
+Virtually, every victim of multiple personality in time develops an ISH- an Inner Self Helper- described by Dr. Ralph Allison, a separate personality whose sole function seems to be to prevent the other personalities from tearing the physical body apart and therefore ending their own existences.
+The person with DID may have as few as two alters, or as many as 100. The average number is about 10. Often alters are stable over time, continuing to play specific roles in the person’s life for years. Some alters may harbor aggressive tendencies, directed toward individuals in the person’s environment or towards other alters within the person. (www.nami.com)
+The alter’s job is to protect the host personality from the memory of the trauma therefore, it is not necessary for all alters to look and act differently than the host.
+Typical types of alters:
+A depressed, exhausted host.
+A strong, angry protector.
+A scared, hurt child.
+A helper.
+An internal persecutor who blames one or more of the alters for the abuse they have endured. (Sometimes named after the actual abuser)(www.google.com/multiplepersonality)
+Common Terminology of MPD
+Personality
+An entity with a firm, persistent, and well-founded sense of self and of a characteristic and consistent pattern of behavior and feelings in response to stimuli.
+Birth Person
+also known as the Original Personality This is the person that was present from birth, the one born into the body. For the majority of people, this is the person that began life before the multiplicity was created, though not for all.
+Core Personality_
+The general belief is that this is the birth personality. The thought held by some in the psychological community is this person is often asleep or at least very distant from the system. Believed to be fragile, and one of the last personalities to be found. Although, this is not always the case.
+Host_
+For most multiples, this is the personality which most often is present and is in control of the body. This is the person who deals with daily functioning, and the system within, as a whole. Some multiples may have more several personalities that serve as their hosts.
+Alter_
+A generic term for any personality useful because, in clinical situations, it often us unclear which personalities are original, host, and so forth, or whether an entity is sufficiently distinct and elaborate for a more precise label.
+Inner Self Helper (ISH)_
+Described first by Allison (1974), ISH’s are serene, rational and objective commentators and advisors.
+Co-Consciousness_
+The degree of knowledge and awareness that alters have with one another. They can communicate and work together as a group and have very little if any time loss.
+Integration_
+This is the process of merging or joining alters so that the multiple becomes one person. (www.google.com/multiplepersonality, www.mdconsult.com)
+Statistics
+Dissociative disorders are not common psychiatric illnesses but are not rare. Few good epidemiological studies have been performed some estimate 1 per 10,000 in the population but higher proportions are reported among psychiatric populations between
+. A sharp rise in reported cases may be attributed to greater awareness of the diagnosis and misdiagnosis of DID as schizophrenia or borderline personality disorder. Some experts attribute possible under diagnosis to family disavowal of sexual and physical abuse. However, there has been controversy about possible over diagnosis of the syndrome as well. Individuals who most commonly have the disorder are highly hypnotizable and therefore especially sensitive to suggestion or cultural influences.
+Some studies show that women make up the majority of these cases  or more. Both in the United States and in non Western Countries the most common dissociative disorder diagnosis falls into the “not otherwise specified” category. Dissociative disorders are the world, although the structure of the symptoms varies across cultures. (www.medconsult.com)
+Even after extensive studies were begun on the phenomenon of the multiple personality in about the year 1919, most psychiatrists insisted that men did not suffer from it, only women. Today we know that approximately 20% of the recorded cases are male. But the disorder itself is still shrouded in mystery the subject of a good deal of controversy. Perhaps 50% of all psychiatrists deny that it even exists. Research has shown that the average age for the initial development of alters is 5.9 years.
+Symptoms
+Voices_
+Approximately one third of patients complain of auditory or visual hallucinations, it is common for these patients to complain that they hear voices in their heads but are merely the personalities within, communicating with one another. Often times, the MOD is misdiagnosed as a schizophrenic due to “hearing voices”, but the multiple personality hears the voices inside their head in contrast to the schizophrenic which hears from the outside of themselves. Often a multiple before diagnosis will speak of noise or clatter inside making it difficult for them to concentrate. It is possible for the multiple to hear many distinct and separate voices, of all ages talking at the same time.
+
+
+Each alter within a multiple has their own history, personalities that are unique to them, body movements, facial expressions, the way they express verbal communication, voice tone and pitch. You might encounter a small child who hides her face and speaks in a childlike voice. Another child within the same system of personalities might be gregarious and charming. The description above would hold true for any age alter and are just tow examples of the variance your might find within the same age group of any of the alters.
+In diagnosing MPD another indicator is the difference in handwriting styles.
+Time loss is quite common in the non-conscious multiple. For the non-conscious multiple the time losses can be devastating. Time loss can occur when something triggers an alter that the host is unaware of. These individuals might find themselves in a place or talking to someone they don’t even know. The length and duration of the time loss depends on how the multiple’s system works and if a more dominant personality can remain in control.
+Suicidal and self-mutilation is a common in this group, body memories and nightmares.
+Children with DID have a great variety of symptoms including some of the ones mentioned above, depressive tendencies, anxiety, conduct problems, episodes of amnesia, difficulty paying attention in school and hallucinations. Often these children are misdiagnosed as having schizophrenia. By the time the child reaches adolescence, it is less difficult for a mental health professional to recognize the symptoms and make a diagnosis of DID. (www.google.com/multiplepersonality)
+Some two hundred cases have been reliably recorded in medical literature and several recent ones have proved similar in a variety of respects. For example: Chris Sizemore (10), Sybil Dorsett (16), Billy Milligan (10). (Ian Wilson. All in the Mind. Pages 128-135)
+
+Treatment for DID consists primarily of psychotherapy with hypnosis. The therapist seeks to make contact with as many alters as possible and to understand their roles and functions in the patient’s life. In particular, the therapist seeks to form an effective relationship with any personalities that are responsible for violent or self-destructive behavior, and to curb this behavior. The therapist seeks to establish communication among the personality states and to find ones that have memories of traumatic events in the patients past. The gold of the therapist is to enable the patient to achieve breakdown of the patients separate identities and their unification into a single identity. (www.nami.com)
+Pharmacological approaches involve balancing therapeutic benefit and risk. Antianxiety medications are most commonly used and may be helpful in reducing the amplification of depersonalization and derealization are also side effects of antianxiety drugs, so their therapeutic response, may also increase symptoms, leading to a spiral of increasing symptoms and drug dosage but without therapeutic benefit. (www.mdconsult.com/dissociativedissorder)
+Conclusion
+We have seen, then, that multiple personality is a psychiatric condition under diagnosed. The personalities do not have an extraterrestrial origin, but can be traced back to the characteristics of real-life persons who have formed a strong impression upon the sufferer, who has then personalized them and unconsciously developed them into a character of his own. In short, each personality is nothing more than a satellite, a superficial fragment split off from the parent individual as a result of extreme stress-yet from our point of view the equally important aspect is that each is extraordinary convincing. (Wilson, Ian. All in the Mind. P.136)
+MPD has always fascinated me, from the phenomenon of being different personalities to the amazing survival that these people have, because that’s how they learn how to survive by slipping into a state of mind to the point that they think that all this abuse is not happening to them but to someone else. But it is sad though that many doctors do not detect the problem until after is too late in some cases and misdiagnose to be something else. I did notice that as it was said by Ian Wilson in his book, every personality has his own job as we can say the reason why they are there. The child who was innocent when all this abuse started happening for example, we have the aggressive protector, we have the helper, etc.
+I have always admired these people their defense mechanism against all this abuse is extraordinary and for those of us who do not understand about this illness it would be great to read about it and even watch videos about it. For me it has made me understand more about it and comprehend the pain they go thru especially since children are the ones who are able to split into these states.</item>
+
+        <item>There is a relationship of this disorder with victims of rape and sexual abuse. May also be related to vaginismus.Recurrent or persistent genital pain associated with sexual intercourse. Can be diagnosed in males or females, is not better accounted for by another diagnosis (psychiatric or physical) and is not the direct effect of substance use.Resolving underlying sexual and relationship issues can be helpful in many cases.</item>
+        <item>Not as much research has been done on Dysthymia as on Major Depression but there is support for a biological undertone as well as maladaptive ways of coping with the environment.Depressed mood for most of the day, for more days than not, and ongoing for at least two years. During this time, there must be two or more of the following symptoms: under– or over eating, sleep difficulties, fatigue, low self-esteem, difficulty with concentration or decision making, and feelings of hopelessness. There can also not be a diagnosis of Major Depression for the first two years of the disorder, and has never been a manic or hypo-manic episode.Similar to Major Depression, treatment could include medication and/or therapy. See above for additional information.This disorder is typically seen as more chronic than Major Depression, but less severe in terms of it’s symptoms.</item>
+
+        <item>Previously referred to as impotence, medical causes of this disorder must be ruled out first. Short of any physiological cause, male erectile disorder is typically a result of ‘performance anxiety’ or fears of not being able to achieve or maintain an erection.Recurring inability to achieve or maintain an erection until completion of the sexual activity. Must result in significant distress for the individual and is not better accounted for by another disorder (e.g. drug abuse) or physical diagnosis.The most commonly applied treatment for non-medical related impotence is ‘Sensate Focus,’ which involves a progression of sexual intimacy, typically over the course of several weeks, and eventually leading to penetration and orgasm.</item>
+        <item>There are different theories related to exhibitionistic behaviors, many stemming from the psychoanalytic camp. They suggest that childhood trauma (e.g., sexual abuse) or significant childhood experiences can manifest itself in exhibitionistic behavior.This disorder is characterized by either intense sexually arousing fantasies, urges, or behaviors in which the individual exposes his or her genitals to an unsuspecting stranger. To be considered diagnosable, the fantasies, urges, or behaviors must cause significant distress in the individual or be disruptive to his or her everyday functioning.Treatment typically involves psychotherapy aimed at uncovering and working through the underlying cause of the behavior. Medications can at times be helpful to assist the client in resisting urges, but are typically not utilized in treatment.Prognosis is good although often there are other issues which may surface once the behaviors are extinguished. If this is the case, these issues must be worked through as well.</item>
+
+
+        <item>Like most disorders in this category, many theories exist in an attempt to explain how this disorder develops. Most experts agree that there are underlying issues related to childhood which play a major role in the etiology.Fetishism is characterized by either intense sexually arousing fantasies, urges, or behaviors in which the individual uses a nonliving object (e.g., woman’s high heeled shoe, stockings) in a sexual manner. Typically, the individual requires this object to become sexually aroused and is therefore unable to be aroused without it. To be considered diagnosable, the fantasies, urges, or behaviors must cause significant distress in the individual or be disruptive to his or her everyday functioning.Treatment typically involves psychotherapy aimed at uncovering and working through the underlying cause of the behavior.Prognosis is good although often there are other issues which may surface once the behaviors are extinguished. If this is the case, these issues must be worked through as well.</item>
+        <item>Like most disorders in this category, many theories exist in an attempt to explain how this disorder develops. Most experts agree that there are underlying issues related to childhood which play a major role in the etiology.This disorder is characterized by either intense sexually arousing fantasies, urges, or behaviors in which the individual touches or rubs against an non-consenting person in a sexual manner. This often occurs in somewhat conspicuous situations such as on a crowded bus or subway. To be considered diagnosable, the fantasies, urges, or behaviors must cause significant distress in the individual or be disruptive to his or her everyday functioning.Treatment typically involves psychotherapy aimed at uncovering and working through the underlying cause of the behavior.Prognosis is good although often there are other issues which may surface once the behaviors are extinguished. If this is the case, these issues must be worked through as well.</item>
+        <item>This disorder is very rare and occurs most often during extreme stress (such as wartime or after a natural disaster).The primary feature of this disorder is abrupt travel away from home, an inability to remember important aspects of one’s life, and the partial or complete adoption of a new identity.The disorder typically dissipates on its own and it is extremely rare to last more than one month.</item>
+
+        <item>There is an association with risk in pathological gambling, more so than financial gain for most individuals. Individuals diagnosed with this disorder are frequently highly competitive, overly concerned with approval from others and prone to other ‘addictive’ type disorders.Persistent and maladaptive pattern of gambling which causes difficulties with interpersonal, financial, and vocational functioning.The most effective treatment has developed through adaptation of the Alcoholics Anonymous model to treat alcohol and drug addictions.Prognosis varies depending on the individual. Some argue that there is no cure for this disorder (much like alcoholism), but that prolonged or continual abstinence is possible.</item>
+        <item>Theories suggest that childhood issues may play a role in this disorder, such as the parent-child relationship at an early age and the identification a child is able to make with the parents of the same gender.A strong and persistent identification with the opposite gender. There is a sense of discomfort in their own gender and may feel they were ‘born the wrong sex.’ This has been confused with cross-dressing or Transvestic Fetishism, but all are distinct diagnoses.Other disorders may be present with this one, including depression, anxiety, relationship difficulties, and personality disorders, and homosexuality is present in a majority of the cases. Treatment is likely to be long-term with small gains made on underlying issues as treatment progresses.Mixed. The goals of treatment are not as clear as in other disorders, as same-sex identification may be very difficult to achieve. More achievable goals may include acceptance of assigned gender and resolution of other difficulties such as depression or anxiety.</item>
+        <item>Often anxiety gets generalized to other situations, and can then become overwhelming or associated with life in general. Typically GAD develops over a period of time and may not be noticed until it is significant enough to cause problems with functioning.As its name implies, GAD is evidenced by general feelings of anxiety such as mild heart palpitations, dizziness, and excessive worry. The symptoms are difficult to control for the individual and are not related to a specific event (such as in PTSD) and are not as severe as those found with Panic Disorder.Medication and/or psychotherapy have been found to be helpful, especially therapy aimed at teaching the client how to gain control over the symptoms.Prognosis is good for the more extreme symptoms, but those associated with underlying fears are more difficult to treat (such as excessive worry). Working through childhood issues can be helpful as these tend to get distorted as they follow us into adulthood (e.g., over-controlling parental styles, sexual abuse, childhood phobias).</item>
+
+        <item>Some evidence suggests that relationship issues and/or sexual trauma in childhood may play a role in the development of this disorder. Life stressors or other interpersonal difficulties.Deficient or absent sexual fantasies and desire for sexual activity. This judgment must be made by a clinician taking into account the individual’s age and life circumstances. The lack of desire must result in significant distress for the individual and is not better accounted for by another disorder or physical diagnosis.Typical treatment would involve discovering and resolving underlying conflict or life difficulties.The course of this disorder can be consistent or periodic, and can therefore resurface after a period of remission if relationship or life stressors re-emerges.</item>
+        <item>There are many who suggest that unconscious aggressive impulses are transferred to physical complaints and that individuals with this disorder are more likely to misinterpret these symptoms as representing a more serious condition. There is little research which substantiates any particular etiology, however.Preoccupation with fears of having a serious disease based upon a misinterpretation of bodily sensations. The preoccupation exists despite assurance from a physician that the individual does not have a serious disease.Therapy is difficult with individuals with this disorder due to their strong belief that the symptoms are not psychological. Sometimes reframing therapy as ‘stress-reduction training’ can assist in the acceptance of help.Somewhat poor. The course of hypochondriasis is typically chronic, with periods of higher functioning.</item>
+
+
+        <item>This disorder is apparently rare, with the majority of cases occurring when the individual is between late adolescence and late twenties. There is some evidence of that the neurotransmitter serotonin may play a role in this disorder.This disorder is characterized by frequent and often unpredictable episodes of extreme anger or physical outbursts. Between episodes, there is typically no evidence of violence or physical threat.Treatment could involve medication or therapy, with the best prognosis utilizing a combination of the two.Prognosis is fair.</item>
+
+        <item>Kleptomania appears to be much more common in females, but little is understood about the etiology. There is also some association with other disorders such as depression and anxiety.Kleptomania involves the failure to resist impulses to steal things that are not needed for either personal use or for their monetary value. There is typically anxiety prior to the act of theft and relief or gratification afterward. If the theft is related to vengeance or psychosis, kleptomania should not be diagnosed. (Kleptomania is quite rare, where common shoplifting is not).Treatment typically involves behavior modification. Other treatment approaches involve seeing the theft as an unconscious process and analyzing it as such may assist in gaining insight and eventually extinguishing the behavior.Prognosis is fair, but can increase with a positive therapeutic relationship and a strong motivation to change the behavior. Kleptomania often goes untreated and results in legal difficulties.</item>
+
+        <item>There are different theories related to sexual masochism, many stemming from the psychoanalytic camp. They suggest that childhood trauma (e.g., sexual abuse) or significant childhood experiences can manifest itself in exhibitionistic behavior.There are different theories related to sexual masochism, many stemming from the psychoanalytic camp. They suggest that childhood trauma (e.g., sexual abuse) or significant childhood experiences can manifest itself in exhibitionistic behavior.Treatment typically involves psychotherapy aimed at uncovering and working through the underlying cause of the behavior.Prognosis is good although often there are other issues which may surface once the behaviors are extinguished. If this is the case, these issues must be worked through as well.</item>
+        <item>Research has shown that depression is influenced by both biological and environmental factors. Studies show that first degree relatives of people with depression have a higher incidence of the illness, whether they are raised with this relative or not, supporting the influence of biological factors. Situational factors, if nothing else, can exacerbate a depressive disorder in significant ways. Examples of these factors would include lack of a support system, stress, illness in self or loved one, legal difficulties, financial struggles, and job problems. These factors can be cyclical in that they can worsen the symptoms and act as symptoms themselves.Symptoms of depression include the following:
+
+depressed mood (such as feelings of sadness or emptiness)
+
+reduced interest in activities that used to be enjoyed, sleep disturbances (either not being able to sleep well or sleeping to much)
+
+loss of energy or a significant reduction in energy level
+
+difficulty concentrating, holding a conversation, paying attention, or making decisions that used to be made fairly easily
+
+suicidal thoughts or intentions.Treatment can either combine both pharmacotherapy and psychotherapy or utilize one or the other individually. Medications used to treat this disorder include Prozac, Paxil, Wellbutrin, and Zoloft. Other medications can be found, along with their descriptions can be found in the Medications page. Psychotherapy is useful in helping the patient understand the factors involved in either creating or exacerbating the depressive symptomotology. Personal factors may include a history of abuse (physical, emotional, and/or sexual), maladaptive coping skills/ Environmental factors involved in this disorder include, among others, a poor social support system and difficulties related to finances or employment.Major Depressive Disorder has a better prognosis than other mood disorders in that medication and therapy have been very successful in alleviating symptomotology. However, many people with this disorder find that it can be episodic, in that periodic stressors can bring back symptoms. In this case, it is often helpful to have an ongoing relationship with a mental health professional just as you would a physician if you had diabetes or high blood pressure.</item>
+
+    </string-array>
+
+
+</resources>
